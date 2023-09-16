@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-15T15:43:49 EDT" name="Default suite" finished-at="2023-09-15T15:44:08 EDT" duration-ms="19716">
+    <groups>
+    </groups>
+    <test started-at="2023-09-15T15:43:49 EDT" name="Default test" finished-at="2023-09-15T15:44:08 EDT" duration-ms="19716">
+      <class name="com.agile.saucedemo.testsScript.SauceNew">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.agile.saucedemo.testsScript.SauceNew@55182842]" started-at="2023-09-15T15:43:49 EDT" name="setUp" finished-at="2023-09-15T15:43:52 EDT" duration-ms="3302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="userInput()[pri:1, instance:com.agile.saucedemo.testsScript.SauceNew@55182842]" started-at="2023-09-15T15:43:52 EDT" name="userInput" finished-at="2023-09-15T15:43:52 EDT" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userInput -->
+        <test-method signature="password()[pri:2, instance:com.agile.saucedemo.testsScript.SauceNew@55182842]" started-at="2023-09-15T15:43:52 EDT" name="password" finished-at="2023-09-15T15:43:52 EDT" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method signature="loginInp()[pri:3, instance:com.agile.saucedemo.testsScript.SauceNew@55182842]" started-at="2023-09-15T15:43:52 EDT" name="loginInp" finished-at="2023-09-15T15:43:52 EDT" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginInp -->
+        <test-method signature="logCheck()[pri:4, instance:com.agile.saucedemo.testsScript.SauceNew@55182842]" started-at="2023-09-15T15:43:52 EDT" name="logCheck" finished-at="2023-09-15T15:43:52 EDT" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logCheck -->
+        <test-method signature="pageTitle()[pri:5, instance:com.agile.saucedemo.testsScript.SauceNew@55182842]" started-at="2023-09-15T15:43:52 EDT" name="pageTitle" finished-at="2023-09-15T15:43:53 EDT" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+        <test-method signature="addcard()[pri:6, instance:com.agile.saucedemo.testsScript.SauceNew@55182842]" started-at="2023-09-15T15:43:53 EDT" name="addcard" finished-at="2023-09-15T15:43:53 EDT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcard -->
+        <test-method signature="numberCard()[pri:7, instance:com.agile.saucedemo.testsScript.SauceNew@55182842]" started-at="2023-09-15T15:43:53 EDT" name="numberCard" finished-at="2023-09-15T15:43:56 EDT" duration-ms="3513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberCard -->
+        <test-method signature="cardAdd()[pri:8, instance:com.agile.saucedemo.testsScript.SauceNew@55182842]" started-at="2023-09-15T15:43:56 EDT" name="cardAdd" finished-at="2023-09-15T15:44:08 EDT" duration-ms="12341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cardAdd -->
+      </class> <!-- com.agile.saucedemo.testsScript.SauceNew -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
